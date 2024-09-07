@@ -15,3 +15,7 @@ The generator outputs a random password that meets the user's criteria.
 Use Cases:
 Creating strong passwords for online accounts.
 Customizable to meet password policy requirements.
+
+Description of files:
+password_generator.py is a teminal based password generator. It generatos a password of a pre-determined length and includes uppercase, lower case, digits and special symbols.
+gui_password_generator.py is a GUI based script that asks the length and what to include in the password and then generatos the random password.
